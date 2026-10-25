@@ -47,6 +47,9 @@ https://m.youtube.com/watch?v=KIhI3XE4kS0
 - 障害物の出現頻度を調整できる設定機能
 - BGMのON/OFF機能
 
+## AI使用箇所
+WindGenerator.csのランダム生成機能の追加の際に使用しました。
+
 ## Scriptファイルについて
 Assets/Scripts フォルダ内に、
 プレイヤー制御・障害物生成・ゲーム管理などの主要なC#スクリプトを掲載しています。
